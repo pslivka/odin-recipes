@@ -1,0 +1,21 @@
+.title-style {
+    font-family: 'Courier New', sans-serif;
+    text-align: center;
+}
+
+.Wedding-style {
+    background-color: rgba(194,45,45,0.5);
+}
+
+.Pan-Fried-style {
+    background-color: rgba(219, 151, 83, 1);
+}
+
+.Easy-style {
+    background-color: rgb(240, 219, 204);
+}
+
+.picture-style {
+    height: auto;
+    width: 800px;
+}
